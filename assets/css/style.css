@@ -685,6 +685,9 @@ section {
   .portfolio #portfolio-flters {
     padding: 0;
   }
+  .portfolio #portfolio-flters li {
+    padding: 10px;
+  }
   .img-fluid {
     width: 100%;
   }
